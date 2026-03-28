@@ -1,2 +1,3 @@
-sk-81Y2N1RducnmUOu2HG1EPhuS8ZaIV36tmE9rta8IIoV2NpVD
-sk-MSLNCQKOFBrRLseOjzwh5ya1nSTbUlTta7rweBziI6lcQX1M
+https://www.xiangluapi.com
+sk-O7QUL9P5AuToVMf9p0QFpt5xKS4hMliR9cQozFWxLcrKQRyI
+claude-opus-4-6
