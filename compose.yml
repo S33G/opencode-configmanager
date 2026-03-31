@@ -1,0 +1,10 @@
+services:
+  occm-web:
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - ${OPENCODE_CONFIG_DIR:-~/.config/opencode}:/data/opencode
+    environment:
+      - OPENCODE_CONFIG_DIR=/data/opencode
+    restart: unless-stopped
